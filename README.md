@@ -1,24 +1,19 @@
-# README
+# Dev Bootcamp Wiki
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a framework created for students to crowd-source information about all things related to Dev Bootcamp, a coding school.
 
-Things you may want to cover:
+Built using
 
-* Ruby version
+* Rails 5.0.1
+* Postgresql 9.6.1
+* ruby 2.3.1p112
+* [ckeditor](https://github.com/galetahub/ckeditor)
 
-* System dependencies
+How to deploy:
+  Seed file provided - make sure the rails, postgresql, and ruby versions above are installed, then run
+  
+  'rails db:create
+  rails db:migrate
+  rails db:seed'
+  
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
