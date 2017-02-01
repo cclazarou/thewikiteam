@@ -12,8 +12,8 @@ Built using
 How to deploy:
   Seed file provided - make sure the rails, postgresql, and ruby versions above are installed, then run
   
-  'rails db:create
-  rails db:migrate
-  rails db:seed'
+    rails db:create
+    rails db:migrate
+    rails db:seed
   
 
